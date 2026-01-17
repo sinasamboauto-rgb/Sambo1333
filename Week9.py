@@ -220,5 +220,3 @@ while True:
 
 
 """
-
-print("zin")
