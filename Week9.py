@@ -179,7 +179,7 @@ ctime = datetime.now()
 
 print(ctime.strftime("%d-%m-%y %H:%M:%S"))
 
-
+"""
 while True:
     
     start = time.perf_counter()
@@ -218,3 +218,7 @@ while True:
     print(time.perf_counter())
     time.sleep(1)
 
+
+"""
+
+print("zin")
